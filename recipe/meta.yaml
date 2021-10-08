@@ -1,5 +1,5 @@
 {% set name = "dataclassy" %}
-{% set version = "0.10.4" %}
+{% set version = "0.11.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/dataclassy-{{ version }}.tar.gz
-  sha256: 9dcebf6ad56792dcb7b512b8bae24f59cbcfc68917b8e682cfe858e74c299d3a
+  sha256: 706682548868a7629c01682aaa05e15a7bbfdf1e9ef8a94b2c8406e5b3a97f48
 
 build:
   number: 0
